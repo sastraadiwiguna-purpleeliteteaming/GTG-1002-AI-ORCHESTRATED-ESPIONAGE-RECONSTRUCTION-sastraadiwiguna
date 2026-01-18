@@ -1,6 +1,6 @@
-[![ZENODO_openAIRE_DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18278782.svg)](https://doi.org/10.5281/zenodo.18278782)=[doi.org/10.5281/zenodo.18278782]
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18278782-blue?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.18278782) = [doi.org/10.5281/zenodo.18278782](https://doi.org/10.5281/zenodo.18278782)
 
-[![ORCID](https://img.shields.io/badge/ORCID-YOUR_ORCID_ID-A6CE39?logo=orcid&logoColor=white)]([https://orcid.org/0009-0007-7728-256X](https://orcid.org/0009-0007-7728-256X).
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--7728--256X-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-7728-256X) = [orcid.org/0009-0007-7728-256X](https://orcid.org/0009-0007-7728-256X)
 
 README.md: REKONSTRUKSI TOTAL VULNERABILITAS & EKSPLOITASI CLAUDECODEAI (GTG-1002)
 
