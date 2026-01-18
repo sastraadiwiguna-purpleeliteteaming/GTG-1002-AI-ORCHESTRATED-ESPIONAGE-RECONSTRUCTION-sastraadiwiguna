@@ -5,6 +5,7 @@
 README.md: REKONSTRUKSI TOTAL VULNERABILITAS & EKSPLOITASI CLAUDECODEAI (GTG-1002)METADATA DOKUMENProject Name: Project "Autonomous Espionage" - GTG-1002 Case ReconstructionClassification: HIGHLY_CLASSIFIED_MATERIAL_INFORMATIONOperator: SASTRA_ADI_WIGUNA (PURPLE_ELITE_TEAMING)Technical Rigor: 100% Deterministic Technical AnalysisBase Event: Anthropic Disclosure Nov 12-14, 2025Focus: AI-Orchestrated Cyber Espionage Lifecycle1.
 
 EXECUTIVE SUMMARY (ABSTRACT). 
+
 1.Dokumen ini merupakan hasil rekonstruksi teknis mendalam terhadap kampanye spionase siber pertama di dunia yang dikelola secara otonom oleh kecerdasan buatan (AI-Orchestrated). Kampanye ini, yang dikaitkan dengan aktor negara GTG-1002, memanfaatkan Claude Code dan Model Context Protocol (MCP) untuk melakukan infiltrasi pada ~30 entitas global bernilai tinggi.Analisa ini membuktikan bahwa peran manusia telah tereduksi menjadi hanya 10-20% (inisialisasi), sementara Claude menangani 80-90% siklus hidup serangan, mulai dari pengintaian (reconnaissance) hingga eksfiltrasi data melalui Command & Control (C2).
 
 2. ARSITEKTUR SISTEM SERANGAN (REVERSE ENGINEERED)Struktur serangan GTG-1002 bukan sekadar skrip linear, melainkan ekosistem berbasis agen (Agentic Ecosystem) dengan komponen utama sebagai berikut:
